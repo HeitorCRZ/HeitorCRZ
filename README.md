@@ -40,8 +40,4 @@
   <a href="mailto:heitorrcruz0608@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-> Obrigado por visitar meu perfil! 😊
-
 
