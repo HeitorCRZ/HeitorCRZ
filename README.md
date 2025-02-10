@@ -1,13 +1,6 @@
-# 👋 Olá, Eu sou o HeitorCRZ!
+# 👋 Olá, Eu sou o Heitor!
 
 ![Banner](https://github.com/HeitorCRZ/HeitorCRZ/blob/main/banner.webp)
-
----
-
-## 🚀 Sobre mim
-- 💻 Apaixonado por tecnologia e desenvolvimento
-- 🎯 Sempre aprendendo novas habilidades
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/heitor-rodrigues-cruz-641160330/?originalSubdomain=br) | [Email](mailto:heitorrcruz0608@gmail.com)
 
 ---
 
@@ -15,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+c%C3%B3digo" />
 </p>
 
+---
 
 ## 🛠 Tecnologias e Ferramentas
 <p align="left">
