@@ -1,4 +1,4 @@
-# 👋 Olá, Eu sou o Heitor!
+# 👋 Olá, Eu sou o Heitr!
 
 ![Banner](https://github.com/HeitorCRZ/HeitorCRZ/blob/main/banner.webp)
 
